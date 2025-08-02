@@ -1,0 +1,8 @@
+streamlit
+python-docx
+PyPDF2
+python-dotenv
+ibm-watson
+transformers
+sentencepiece
+streamlit-tags
